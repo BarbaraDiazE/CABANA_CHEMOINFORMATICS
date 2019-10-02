@@ -16,9 +16,7 @@ Roadmap
             Select Smiles
             Convert SMILES TO RDKit Format
             Compute Descriptors
-            Merge Results)
-            
-    5.-Save Results as .csv File
-            
+            Merge Results
+            Save Results as .csv File)
     
     
