@@ -1,16 +1,13 @@
 Explore Biofacquim against the world.
 Perform a PCA and visualize results in an interactive plot
 
-Roadmap
+Roadmap     
 
-    Compute_distance_matrix (distance_matrix.ipynb)
+	Perform tSNE (tSNE.ipynb)
         Import Data
         Sample
         Compute FP
         Compute Tanimoto Distance Matrix
-
-	Perform tSNE (tSNE.ipynb)
-        Import Data
         Perform tSNE
         Save results
         
